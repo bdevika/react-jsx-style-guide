@@ -102,3 +102,19 @@ class Listing extends React.Component {
 function Listing({ hello }) {
   return <div>{hello}</div>;
 }
+                                            
+                                            
+Basic Rules()
+Class vs React.createClass vs stateless
+Mixins
+Naming
+Declaration
+Alignment
+Quotes
+Spacing(component spacing)
+Props = >(naming, value, img tag,no accessKey, key index, relevent props,)
+Refs=> ref={this.ref=ref}
+Parentheses=>()
+Tags=>(<Tag />)
+Methods =>(no underscore,arrow for local function, )
+Ordering
